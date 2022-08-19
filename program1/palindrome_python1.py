@@ -22,5 +22,5 @@ def palindromeInString(s):
     return result
 
 if __name__ == "__main__":
- s='fgfrghfgh'
+ s='cdozvzoroba'
 print(palindromeInString(s))
